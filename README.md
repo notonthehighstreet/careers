@@ -1,3 +1,5 @@
+<img src="https://cdn.notonthehighstreet.com/campaigns/images/careers-page/ttl-main-hero.png?v2">
+
 # Careers@NOTHS
 
 # A bit of background….
