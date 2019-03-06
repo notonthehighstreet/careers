@@ -1,4 +1,4 @@
-
+[logo]: https://static1.squarespace.com/static/5a1592ff0abd04e470d48744/t/5a27bbeeec212d905273a14c/1512996237223/Kaas.jpeg?format=1500w "Logo Title Text 2"
 # Careers@NOTHS - choose a career less ordinary-
 
 
