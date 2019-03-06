@@ -7,11 +7,11 @@ We are the leading gifting marketplace business in the UK, supporting over 5,500
 
 Because we know how important learning is, we provide the Tech team with online training and time set aside to complete course work, guilds sessions, hackathons and learning groups. On top of this, we offer plenty of fun stuff - staff discount, birthday vouchers, soft/hot drinks on tap, regular Friday drinks and of course our renowned Christmas and Summer parties. As the home of thoughtful gifts, thoughtful is our middle name so we also love a surprise or two… (but that’s enough on that for now!)
 
-#Our perks 
+# Our perks 
 
 It’s important to us that our people are well looked after, which is why we offer everyone BUPA healthcare, life insurance and a pension plan. Because having a break is important for your physical and mental wellbeing, our holiday allowance is 25 days (plus bank holidays) AND your entitlement will increase an extra day for every 2 years you spend with us. 
 
-Other perks include: 
+# Other perks include: 
 Fantastic maternity policy
 Parental leave policy 
 Length of service rewards 
@@ -25,5 +25,5 @@ Yoga sessions
 An abundance of free fruit
 Great facilities including a large eating area with table tennis and arcade machines.
 
-#VISIT OUR CAREERS PAGE <link>HERE</link>
+#VISIT OUR CAREERS PAGE
 https://www.notonthehighstreet.com/pages/careers-page
