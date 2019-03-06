@@ -1,5 +1,4 @@
-![Basic Overview of Cognito](/.github/images/basics.jpg)
-
+<img src="//cdn.notonthehighstreet.com/campaigns/images/careers-page/ttl-main-hero.png?v2" alt="noonthehighstreet.com - join our team - choose a career less ordinary" class="ttl">
 # Careers@NOTHS
 
 # A bit of background….
