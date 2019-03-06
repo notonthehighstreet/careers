@@ -1,4 +1,4 @@
-<img src="//cdn.notonthehighstreet.com/campaigns/images/careers-page/ttl-main-hero.png?v2" alt="noonthehighstreet.com - join our team - choose a career less ordinary" class="ttl">
+<img src="//cdn.notonthehighstreet.com/campaigns/images/careers-page/ttl-main-hero.png" alt="noonthehighstreet.com - join our team - choose a career less ordinary" class="ttl">
 # Careers@NOTHS
 
 # A bit of background….
