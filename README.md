@@ -31,3 +31,4 @@ Great facilities including a large eating area with table tennis and arcade mach
 # VISIT OUR
 <a href="https://www.notonthehighstreet.com/pages/careers-page">Careers Page</a>
 
+![NOTHS Careers](https://cdn.notonthehighstreet.com/campaigns/images/careers-page/img-grid-02.jpg?v1)
