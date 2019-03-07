@@ -1,4 +1,5 @@
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+[logo]: https://github.com/notonthehighstreet/careers/blob/master/JoinOurTeam.png "Logo Title Text 2"
+
 #Careers@NOTHS
 
 
