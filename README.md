@@ -1,4 +1,4 @@
-[logo]: https://github.com/notonthehighstreet/careers/blob/master/JoinOurTeam.png "Logo Title Text 2"
+[logo]:https://github.com/notonthehighstreet/careers/blob/master/JoinOurTeam.png
 
 #Careers@NOTHS
 
