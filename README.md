@@ -1,5 +1,5 @@
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png
-# Careers@NOTHS - choose a career less ordinary-
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+#Careers@NOTHS
 
 
 # A bit of background….
