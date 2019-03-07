@@ -1,4 +1,4 @@
-![Image of Yaktocat](https://github.com/notonthehighstreet/careers/blob/master/Logo.png)
+![NOTHS Careers](https://github.com/notonthehighstreet/careers/blob/master/Logo.png)
 
 #Careers@NOTHS
 
