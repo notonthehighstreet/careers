@@ -14,7 +14,7 @@ Because we know how important learning is, we provide the Tech team with online 
 
 It’s important to us that our people are well looked after, which is why we offer everyone BUPA healthcare, life insurance and a pension plan. Because having a break is important for your physical and mental wellbeing, our holiday allowance is 25 days (plus bank holidays) AND your entitlement will increase an extra day for every 2 years you spend with us. 
 
-# Other perks include: 
+# Other perks include
 Fantastic maternity policy
 Parental leave policy 
 Length of service rewards 
