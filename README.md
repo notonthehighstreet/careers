@@ -28,7 +28,7 @@ Yoga sessions
 An abundance of free fruit
 Great facilities including a large eating area with table tennis and arcade machines.
 
-# VISIT OUR
+## VISIT OUR
 <a href="https://www.notonthehighstreet.com/pages/careers-page">Careers Page</a>
 
 ![NOTHS Careers](https://cdn.notonthehighstreet.com/campaigns/images/careers-page/img-grid-06.jpg?v1)
